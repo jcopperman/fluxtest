@@ -1,5 +1,7 @@
 import unittest
-from sut.income_tax_calculator import IncomeTaxCalculator
+import sys
+sys.path.append(".\sut")
+from income_tax_calculator import IncomeTaxCalculator
 
 class TestIncomeTaxCalculator(unittest.TestCase):
     def test_calculate_tax_for_age_less_than_65_and_income_less_than_or_equal_to_50000(self):
