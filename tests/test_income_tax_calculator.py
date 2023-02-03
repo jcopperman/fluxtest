@@ -1,6 +1,6 @@
 import unittest
 import sys
-sys.path.append(".\sut")
+sys.path.append("sut")
 from income_tax_calculator import IncomeTaxCalculator
 
 class TestIncomeTaxCalculator(unittest.TestCase):
