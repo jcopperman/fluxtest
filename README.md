@@ -1,4 +1,5 @@
 # fluxtest
+![Tests](https://github.com/jcopperman/fluxtest/actions/workflows/tests.yml/badge.svg)
 
 ![Sir Flux](flux-honey-badger.png)
 
