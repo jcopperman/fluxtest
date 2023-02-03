@@ -15,7 +15,7 @@ class TestIncomeTaxCalculator(unittest.TestCase):
         self.assertEqual(calculator.calculate_tax(), 0.0)
 
     def test_calculate_tax_for_age_65_or_over_and_income_greater_than_60000(self):
-        calculator = IncomeTaxCalculator(70001, 65)
+        calculator = IncomeTaxCalculator(70000, 65)
         self.assertEqual(calculator.calculate_tax(), 1000.0)
 
 if __name__ == '__main__':
