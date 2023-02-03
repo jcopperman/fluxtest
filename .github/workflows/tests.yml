@@ -39,4 +39,5 @@ jobs:
           pip install pytest
         # Run the tests. I'm using pytest and the file is in the tests directory.
       - name: Run tests
-        run: pytest tests/income_tax_calculator.py
+        run: pytest path/to/repo/**/*.py
+
