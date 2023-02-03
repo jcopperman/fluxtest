@@ -1,0 +1,65 @@
+{"level":30,"time":"2023-02-03T12:31:05.619Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Listening on 51547"}
+{"level":30,"time":"2023-02-03T12:31:05.756Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:05.757Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:05.760Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:05.760Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:05.765Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-02-03T12:31:06.308Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-02-03T12:31:06.312Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-02-03T12:31:06.313Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-03T12:31:06.313Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Trace file: "}
+{"level":30,"time":"2023-02-03T12:31:06.333Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Changed active context"}
+{"level":30,"time":"2023-02-03T12:31:06.334Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method newContext"}
+{"level":30,"time":"2023-02-03T12:31:06.338Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-03T12:31:06.338Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-03T12:31:06.586Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-03T12:31:06.587Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Changed active page"}
+{"level":30,"time":"2023-02-03T12:31:07.861Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-03T12:31:07.865Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-03T12:31:07.865Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-03T12:31:07.948Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-03T12:31:07.948Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Changed active page"}
+{"level":30,"time":"2023-02-03T12:31:08.997Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-03T12:31:09.001Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method typeText"}
+{"level":30,"time":"2023-02-03T12:31:09.001Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Strict mode is enabled, find Locator with input#username in page."}
+{"level":30,"time":"2023-02-03T12:31:09.080Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method typeText"}
+{"level":30,"time":"2023-02-03T12:31:09.084Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method typeText"}
+{"level":30,"time":"2023-02-03T12:31:09.084Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Strict mode is enabled, find Locator with input#password in page."}
+{"level":30,"time":"2023-02-03T12:31:09.132Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method typeText"}
+{"level":30,"time":"2023-02-03T12:31:09.134Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-03T12:31:09.135Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Strict mode is enabled, find Locator with button.btn-primary in page."}
+{"level":30,"time":"2023-02-03T12:31:09.198Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method click"}
+{"level":30,"time":"2023-02-03T12:31:09.201Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2023-02-03T12:31:09.215Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Removed page=f9d93945-143b-4b7c-aa0e-3b3812f422c8 from context=10efe7f6-f1bc-4b12-9318-6538e845f67c page stack"}
+{"level":30,"time":"2023-02-03T12:31:09.217Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Removed page=7540731d-2dea-41fa-9e59-a9970ede0623 from context=10efe7f6-f1bc-4b12-9318-6538e845f67c page stack"}
+{"level":30,"time":"2023-02-03T12:31:09.543Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\index.js:9351:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\index.js:9882:59)
+    at PlaywrightServer.setTimeout (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\index.js:10125:69)
+    at C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-02-03T12:31:09.549Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:09.549Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method getBrowserCatalog"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\index.js:9351:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\index.js:9882:59)
+    at PlaywrightServer.setTimeout (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\index.js:10125:69)
+    at C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:821:17
+    at Http2ServerCallStream.safeDeserializeMessage (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:395:13)
+    at ServerHttp2Stream.onEnd (C:\Users\JonathanOpperman\.virtualenvs\fluxtest-eDvR_yxa\Lib\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-call.js:382:22)
+    at ServerHttp2Stream.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+=============================================================
+{"level":30,"time":"2023-02-03T12:31:09.553Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:09.553Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-03T12:31:09.584Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-02-03T12:31:09.584Z","pid":23024,"hostname":"DESKTOP-1M4V4JA","msg":"End of node method closeAllBrowsers"}
