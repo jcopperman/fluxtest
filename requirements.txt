@@ -9,7 +9,7 @@ chardet==5.1.0
 charset-normalizer==3.0.1
 colorama==0.4.6
 coverage==7.0.5
-cryptography==39.0.0
+cryptography==39.0.1
 cssselect==1.2.0
 docopt==0.6.2
 exceptiongroup==1.1.0
